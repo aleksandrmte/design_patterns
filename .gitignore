@@ -1,0 +1,13 @@
+/.vs
+/Command/obj
+/Command/bin
+/State/obj
+/State/bin
+/Decorator/obj
+/Decorator/bin
+/Factory/obj
+/Factory/bin
+/ChainOfResponsibility/obj
+/ChainOfResponsibility/bin
+/Strategy/obj
+/Strategy/bin
