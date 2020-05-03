@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factory", "Factory\Factory.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOfResponsibility", "ChainOfResponsibility\ChainOfResponsibility.csproj", "{88DCB375-9E49-434E-9775-A9A917277B20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strategy.csproj", "{1DA85900-123C-4F6D-8B95-33AAEFCB93AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strategy", "Strategy\Strategy.csproj", "{1DA85900-123C-4F6D-8B95-33AAEFCB93AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter\Adapter.csproj", "{BBCE4075-70D1-4BAC-B8D5-EC834B785C99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{1DA85900-123C-4F6D-8B95-33AAEFCB93AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DA85900-123C-4F6D-8B95-33AAEFCB93AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DA85900-123C-4F6D-8B95-33AAEFCB93AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCE4075-70D1-4BAC-B8D5-EC834B785C99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCE4075-70D1-4BAC-B8D5-EC834B785C99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCE4075-70D1-4BAC-B8D5-EC834B785C99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCE4075-70D1-4BAC-B8D5-EC834B785C99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
